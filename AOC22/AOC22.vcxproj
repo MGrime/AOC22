@@ -129,10 +129,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\solutions\day2\day2_solution.cpp" />
     <ClCompile Include="src\solutions\day1\day1_solution.cpp" />
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\solutions\day2\day2_solution.hpp" />
     <ClInclude Include="src\solutions\day1\day1_solution.hpp" />
     <ClInclude Include="src\solutions\base\solution_base.hpp" />
     <ClInclude Include="src\solutions\solutions.hpp" />
