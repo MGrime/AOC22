@@ -40,6 +40,13 @@ int main() {
 		std::cin.get();
 		return 0;
 	}
+	case 5:
+	{
+		solution = std::make_unique<day5_solution>();
+		solution->run();
+		std::cin.get();
+		return 0;
+	}
 	default:
 		std::cout << "That isn't a valid day. Rerun the program to try again.";
 		return -1;

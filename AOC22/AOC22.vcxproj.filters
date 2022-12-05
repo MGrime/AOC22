@@ -30,6 +30,9 @@
     <ClCompile Include="src\solutions\day4\day4_solution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\solutions\day5\day5_solution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\solutions\solutions.hpp">
@@ -48,6 +51,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\solutions\day4\day4_solution.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\solutions\day5\day5_solution.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
