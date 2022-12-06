@@ -4,3 +4,4 @@
 #include "day3/day3_solution.hpp"
 #include "day4/day4_solution.hpp"
 #include "day5/day5_solution.hpp"
+#include "day6/day6_solution.hpp"
