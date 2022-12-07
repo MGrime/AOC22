@@ -136,6 +136,7 @@
     <ClCompile Include="src\solutions\day4\day4_solution.cpp" />
     <ClCompile Include="src\solutions\day5\day5_solution.cpp" />
     <ClCompile Include="src\solutions\day6\day6_solution.cpp" />
+    <ClCompile Include="src\solutions\day7\day7_solution.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\solutions\day2\day2_solution.hpp" />
@@ -145,6 +146,7 @@
     <ClInclude Include="src\solutions\day4\day4_solution.hpp" />
     <ClInclude Include="src\solutions\day5\day5_solution.hpp" />
     <ClInclude Include="src\solutions\day6\day6_solution.hpp" />
+    <ClInclude Include="src\solutions\day7\day7_solution.hpp" />
     <ClInclude Include="src\solutions\solutions.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
