@@ -39,6 +39,9 @@
     <ClCompile Include="src\solutions\day7\day7_solution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\solutions\day8\day8_solution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\solutions\solutions.hpp">
@@ -66,6 +69,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\solutions\day7\day7_solution.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\solutions\day8\day8_solution.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
