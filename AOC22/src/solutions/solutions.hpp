@@ -7,3 +7,4 @@
 #include "day6/day6_solution.hpp"
 #include "day7/day7_solution.hpp"
 #include "day8/day8_solution.hpp"
+#include "day9/day9_solution.hpp"
